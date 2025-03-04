@@ -1,0 +1,16 @@
+﻿  Camera.cpp
+  main.cpp
+C:\Users\Utilizator\Desktop\PG_LAB\Test_Proiect\main.cpp(348,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Utilizator\Desktop\PG_LAB\Test_Proiect\main.cpp(349,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Utilizator\Desktop\PG_LAB\Test_Proiect\main.cpp(353,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Utilizator\Desktop\PG_LAB\Test_Proiect\main.cpp(354,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Utilizator\Desktop\PG_LAB\Test_Proiect\main.cpp(355,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Utilizator\Desktop\PG_LAB\Test_Proiect\main.cpp(356,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Utilizator\Desktop\PG_LAB\Test_Proiect\main.cpp(642,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Utilizator\Desktop\PG_LAB\Test_Proiect\main.cpp(687,47): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Users\Utilizator\Desktop\PG_LAB\Test_Proiect\main.cpp(882,16): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Utilizator\Desktop\PG_LAB\Test_Proiect\main.cpp(903,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Utilizator\Desktop\PG_LAB\Test_Proiect\main.cpp(910,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Utilizator\Desktop\PG_LAB\Test_Proiect\main.cpp(965,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  Test_Proiect.vcxproj -> C:\Users\Utilizator\Desktop\PG_LAB\Test_Proiect\x64\Debug\Test_Proiect.exe
